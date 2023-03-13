@@ -10,7 +10,7 @@ An "exploit kit" is something which makes executing an exploit much easier, like
 
 # FX85GTX
 
-The main focus for CasioSploit, the fx-85GTX calculator is the most widely used calculator in British schools. Check (exploits.md)[./exploits.md] for the exploits related to the FX85GTX.
+The main focus for CasioSploit, the fx-85GTX calculator is the most widely used calculator in British schools. Check [exploits.md](./exploits.md) for the exploits related to the FX85GTX.
 
 # License
 
