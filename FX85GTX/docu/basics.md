@@ -10,6 +10,8 @@ The positive (+) terminal for charging the battery is on the left side of the ci
 
 The negative (-) terminal for charging the battery is on the right side of the circuit board. SP- (Solar Panel -), or P170, is the yellow wire and BT- (Battery -), or P172, is the black wire.
 
-P171 and P173 are connected by a think printed wire. They are both (individually) soldered onto the circuit board. The same goes for P170 and P170.
+P171 and P173 are connected by a think printed wire. They are both (individually) soldered onto the circuit board. The same goes for the P170 and P172.
 
-The battery should always be in correctly. If it is even slightly out, the calculator will stop functioning normally.
+\* The "P" in "P171", "P173" etc. probably means power.
+
+The battery should always be in correctly. If it is even slightly out, the calculator will stop functioning normally. Weird things happen if it is not in properly, often including graphical glitches.
