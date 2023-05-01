@@ -4,6 +4,8 @@
 
 CasioSploit is a collection of documentation, exploits, source code and projects for CASIO calculators, mainly the fx-85GTX.
 
+**The markdown files of the repository are no longer being maintained. Please refer to the [wiki](https://github.com/CoffeeBrewer64/casio-sploit/wiki) instead.**
+
 # Exploits and purpose
 
 Casio calculators are the most popular calculators for students in the UK. While people in America have access to TI-85 calculators with native assembly support, GameBoy emulators etc., while British students are forced to endure the pain of only being able to "play" tic-tac-toe on their calculators.
