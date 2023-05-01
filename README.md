@@ -4,7 +4,7 @@
 
 CasioSploit is a collection of documentation, exploits, source code and projects for CASIO calculators, mainly the fx-85GTX.
 
-**The markdown files of the repository are no longer being maintained. Please refer to the [wiki](https://github.com/CoffeeBrewer64/casio-sploit/wiki) instead.**
+**Please refer to the repository files rather than the wiki as the wiki is no longer being properly maintained.**
 
 # Exploits and purpose
 
