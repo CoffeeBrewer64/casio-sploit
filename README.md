@@ -1,10 +1,12 @@
+**The fx85gtx and the fx83gtx are the same, but the 85 has a solar panel.**
+
 # CasioSploit
 
 CasioSploit is a collection of documentation, exploits, source code and projects for CASIO calculators, mainly the fx-85GTX.
 
 # Exploits and purpose
 
-Casio calculators are the most popular calculators for students in the UK. While people in America have access to TI-85 calculators with native assembly support, GameBoy emulators
+Casio calculators are the most popular calculators for students in the UK. While people in America have access to TI-85 calculators with native assembly support, GameBoy emulators etc., while British students are forced to endure the pain of only being able to "play" tic-tac-toe on their calculators.
 
 # FX85GTX
 
