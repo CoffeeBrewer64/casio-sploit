@@ -15,3 +15,5 @@ case\_lower\_up : The lower part of the case, facing upwards. Very dusty. Neithe
 case\_lower\_down : The lower part of the case, facing downwards. Does not have the battery cover connected.
 
 board\_logic : The logic side of the circuit board. The Glob Top (the black blob, now partly grey). Scratches are all over the board and the screen was forcefully removed.
+
+board\_keys : The keypad side of the circuit board. Has the keypad removed and there are lines around the circular holes from when the keypad and board were being cut apart.
