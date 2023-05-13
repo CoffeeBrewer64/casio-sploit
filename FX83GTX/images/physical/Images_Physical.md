@@ -1,6 +1,6 @@
 # Images: Physical
 
-**All images have had their tags cleaned**
+**All images have had their tags cleaned. If you are adding an image, use a metadata cleaner!**
 
 keypad\_core\_top : Shows the keypad button system, without the topmost shell. One of the keys has been torn out.
 
@@ -13,3 +13,5 @@ screen\_detatched\_down : Shows the screen (detatched) facing down. The connecti
 case\_lower\_up : The lower part of the case, facing upwards. Very dusty. Neither the battery cover nor the battery are present.
 
 case\_lower\_down : The lower part of the case, facing downwards. Does not have the battery cover connected.
+
+board\_logic : The logic side of the circuit board. The Glob Top (the black blob, now partly grey). Scratches are all over the board and the screen was forcefully removed.
