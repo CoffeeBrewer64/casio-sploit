@@ -10,4 +10,6 @@ screen\_detatched\_up : Shows the screen (detatched) facing up. The connections 
 
 screen\_detatched\_down : Shows the screen (detatched) facing down. The connections were forcefully removed. The connection tape (in brown) is damaged and slanted. There are scratches on the screen.
 
-case\_lower\_up : The lower part of the case, facing upwards. Very dusty.
+case\_lower\_up : The lower part of the case, facing upwards. Very dusty. Neither the battery cover nor the battery are present.
+
+case\_lower\_down : The lower part of the case, facing downwards. Does not have the battery cover connected.
