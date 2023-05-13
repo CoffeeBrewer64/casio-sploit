@@ -9,3 +9,5 @@ keypad\_core\_bottom : Shows the underneath of the keypad button system, without
 screen\_detatched\_up : Shows the screen (detatched) facing up. The connections were forcefully taken off. The screen may be scratched. There is pen around the screen.
 
 screen\_detatched\_down : Shows the screen (detatched) facing down. The connections were forcefully removed. The connection tape (in brown) is damaged and slanted. There are scratches on the screen.
+
+case\_lower\_up : The lower part of the case, facing upwards. Very dusty.
